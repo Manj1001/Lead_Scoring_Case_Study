@@ -4,16 +4,17 @@ X Education, an online course provider, attracts professionals to their website 
 
 Roadmap:
 
-Reading and Inspecting Data - Read, load, understand and analyse the data.
-Data Cleaning (Dropping Insignificant Columns) - Handling missing values and dropping insignificant variables.
-Data Visualization and Exploratory Data Analysis - To gather insights from the data.
-Data Pre-processing for Model Building - Creating dummy variables,fFeature scaling and standardization, splitting into train and test sets.
-Model Building - Initial feature selection using RFE, and subsequently by Manual Feature Elimination. Selecting the optimal model with p-values and VIFs under acceptable limits, as final.
-Making Predictions and Model Evaluation – Evaluating model metrics, fine tuning the cutoff point, calculating lead score.
-Recommendations
+1.Reading and Inspecting Data - Read, load, understand and analyse the data.
+2.Data Cleaning (Dropping Insignificant Columns) - Handling missing values and dropping insignificant variables.
+3.Data Visualization and Exploratory Data Analysis - To gather insights from the data.
+4.Data Pre-processing for Model Building - Creating dummy variables,fFeature scaling and standardization, splitting into train and test sets.
+5.Model Building - Initial feature selection using RFE, and subsequently by Manual Feature Elimination. Selecting the optimal model with p-values and VIFs under acceptable limits, as final.
+6.Making Predictions and Model Evaluation – Evaluating model metrics, fine tuning the cutoff point, calculating lead score.
+7.Recommendations
+
 Files Uploaded:
 
-Lead Scoring Case Study.ipynb - Jupyter notebook containing the complete code and comments.
-Summary Report.pdf - A short synopsis of the problem statement and approach.
-Assignment Subjective Questions.pdf - Answers to the given subjective questions
-Lead Scoring Case Study - Presentation.pdf - The detailed presentation / report containing all the details on the problem statement, approach and results.
+1.Lead Scoring Case Study.ipynb - Jupyter notebook containing the complete code and comments.
+2.Summary Report.pdf - A short synopsis of the problem statement and approach.
+3.Assignment Subjective Questions.pdf - Answers to the given subjective questions
+4.Lead Scoring Case Study - Presentation.pdf - The detailed presentation / report containing all the details on the problem statement, approach and results.
