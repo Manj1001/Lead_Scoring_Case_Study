@@ -9,12 +9,17 @@ Roadmap:
 3.Data Visualization and Exploratory Data Analysis - To gather insights from the data.
 4.Data Pre-processing for Model Building - Creating dummy variables,fFeature scaling and standardization, splitting into train and test sets.
 5.Model Building - Initial feature selection using RFE, and subsequently by Manual Feature Elimination. Selecting the optimal model with p-values and VIFs under acceptable limits, as final.
+
 6.Making Predictions and Model Evaluation – Evaluating model metrics, fine tuning the cutoff point, calculating lead score.
+
 7.Recommendations
 
 Files Uploaded:
 
 1.Lead Scoring Case Study.ipynb - Jupyter notebook containing the complete code and comments.
+
 2.Summary Report.pdf - A short synopsis of the problem statement and approach.
+
 3.Assignment Subjective Questions.pdf - Answers to the given subjective questions
+
 4.Lead Scoring Case Study - Presentation.pdf - The detailed presentation / report containing all the details on the problem statement, approach and results.
